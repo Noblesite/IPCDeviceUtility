@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>prod_ldap_url</key>
+	<string>https://your.ldap</string>
+	<key>web_service_logging_flag</key>
+	<string>true</string>
+	<key>ldap_url</key>
+	<string>https://your.ldap</string>
+</dict>
+</plist>
